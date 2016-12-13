@@ -1,0 +1,9 @@
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe.config
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\WebDriver.xml
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csprojResolveAssemblyReference.cache
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\obj\Debug\TestSelenium.exe
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\obj\Debug\TestSelenium.pdb
+D:\Nikita\DemoProjects\TestSelenium\TestSelenium\bin\Debug\chromedriver.exe
